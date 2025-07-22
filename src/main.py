@@ -1,4 +1,4 @@
 import numpy as np
-print('Hello word')
-
-print('hi how are you')
+from utils import add
+print(add(a, b))
+   
