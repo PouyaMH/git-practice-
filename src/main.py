@@ -21,3 +21,4 @@ if __name__ == "__main__":
 
 print("This is the end of the script.")
 # This script demonstrates basic arithmetic operations and prints results.  
+print ("Issue60")
