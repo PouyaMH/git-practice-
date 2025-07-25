@@ -4,3 +4,6 @@ def add(a,b):
     return a + b
 
 "we decideded to add more comments to this file"
+def subtract(a, b):
+    """Subtracts b from a."""
+    return a - b        
